@@ -1,5 +1,10 @@
 # Fonte de tensão ajustável
 *trabalho da disciplina Eletronica para Computação - SSC0180*
+# Tabela dos componentes
+|quantidade|componente|valor unitário|
+|-----| |-------------------| |--------|
+| |diodo zener (13V)| |
+| |resistor 2k2| |
 # Componentes
 - **transformador**: tem o papel de diminuir a voltagem que o circuito recebe a partir da fonte corrente alternada (tomada). a partir da voltagem de 127V recebida, o transformador consegue diminuí=la para a faixa de tensão desejada (3V a 12V).
 - **ponte de diodo**: uma junção de 4 diodos que têm a capacidade de transformar a tensão alternada (vinda da tomada) em contínua.
