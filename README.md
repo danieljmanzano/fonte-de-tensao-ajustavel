@@ -1,5 +1,5 @@
-# fonte-de-tensao-ajustavel 
-# trabalho da disciplina Eletronica para Computação - SSC0180
+# Fonte de tensão ajustável
+*trabalho da disciplina Eletronica para Computação - SSC0180*
 
 
 
