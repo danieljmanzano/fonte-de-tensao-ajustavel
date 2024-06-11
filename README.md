@@ -1,5 +1,5 @@
 # fonte-de-tensao-ajustavel
-*trabalho da disciplina Eletronica para Computação (SSC0180)* 
+trabalho da disciplina Eletronica para Computação (SSC0180) 
 
 *tensão de 3V a 12V, corrente máxima de 100mA*
 
