@@ -10,7 +10,7 @@
 - **resistores**: usados em mais de um momento no circuito, têm a função de limitar a corrente, garantindo certa "segurança" aos componentes. no circuito, usamos eles associados ao led, ao zener, ao potenciômetro e ao transistor.
 - **led**: tem função de indicar o nível da corrente atingida na parte final do circuito, brilhando mais quando a voltagem e a corrente são maiores. de modo geral, não interfere nos valores obtidos no circuito, servindo unicamente como indicação da voltagem e corrente ajustáveis.
 
-# imagem do circuito:
+# Imagem do circuito:
 ![Captura de tela 2024-06-11 105750](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/e3c710aa-9977-4a19-93ae-4c3c98ba290d)
 link para o falstad: https://tinyurl.com/2cbdos5r
 
