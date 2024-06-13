@@ -16,10 +16,10 @@
 ![Captura de tela 2024-06-11 105750](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/e3c710aa-9977-4a19-93ae-4c3c98ba290d)
    link para o falstad: https://tinyurl.com/2cbdos5r
 
-# Esquemático no Eagle
+# PCB no Eagle
 ![Captura de tela 2024-06-12 210140](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/a610be01-ebc5-4f92-b6d7-2eceea460e35)
 
-# PCB no Eagle
+# Esquemático no Eagle
 ![Captura de tela 2024-06-12 204952](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/86f89c07-bab1-40e5-bc8c-1dc4eaa14497)
 
 
