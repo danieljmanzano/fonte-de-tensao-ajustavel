@@ -2,7 +2,7 @@
 *trabalho da disciplina Eletronica para Computação - SSC0180*
 # Tabela dos componentes
 | componente | quantidade | custo unitário |
-| ---------- | :----: | -------------- |
+| :----: | :----: | :----: |
 |só o template|depois a gente coloca os namoral|valeu eh nois|
 | | **`TOTAL:`** | **`(preço total)`** |
 # Componentes
