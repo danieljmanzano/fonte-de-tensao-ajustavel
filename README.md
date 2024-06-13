@@ -9,13 +9,13 @@
 | | **`TOTAL:`** | **`(preço total)`** |
 
 # Sobre os componentes
-- **transformador**: tem o papel de diminuir a voltagem que o circuito recebe a partir da fonte corrente alternada (tomada). a partir da voltagem de 127V recebida, o transformador consegue diminuí=la para a faixa de tensão desejada (3V a 12V).
-- **ponte de diodo**: uma junção de 4 diodos que têm a capacidade de transformar a tensão alternada (vinda da tomada) em contínua.
+- **transformador**: tem o papel de diminuir a voltagem que o circuito recebe da fonte corrente alternada (tomada). a partir da voltagem de 127V recebida, o transformador consegue diminuí-la para a faixa de tensão desejada (3V a 12V).
+- **ponte de diodo**: também chamada de ponte retificadora, é uma junção de 4 diodos que têm a capacidade de transformar a tensão alternada (vinda da tomada) em contínua, ou seja, tem capacidade de a "retificar".
 - **capacitor**: armazena carga no circuito nos ciclos da corrente alternada, liberando corrente quando a tensão da fonte é menor do que a tensão interna. ele descarrega sua carga armazenada quando há a inversão do ciclo no circuito. com base em cálculos de um ripple de 10%, chegamos próximos do valor comercial de 470uF de capacitância, usando um capacitor com esse valor no projeto.
-- **diodo zener**: tem o intuito de regular a corrente máxima, sendo o usado especificamente de voltagem máxima de 13V. quando a ddp passa de 13V, ele mantém esse valor em seus terminais; quando a ddp chega menor do que 13V, ele não conduz e consequentemente não interfere no circuito.
+- **diodo zener**: tem o intuito de regular a corrente máxima, sendo o usado especificamente de voltagem máxima de 13V. quando a ddp passa de 13V, ele mantém o valor máximo de 13 em seus terminais; quando a ddp chega menor do que 13V, ele não conduz e consequentemente não interfere no circuito.
 - **potenciômetro**: é um resistor variável usado como controle da tensão resultante, que permite atingir as ddps de 3V a 12V no circuito.
-- **transistor**: amplifica a corrente que recebe em sua base para um valor desejado, sendo o máximo de 100mA
-- **resistores**: usados em mais de um momento no circuito, têm a função de limitar a corrente, garantindo certa "segurança" aos componentes. no circuito, usamos eles associados ao led, ao zener, ao potenciômetro e ao transistor.
+- **transistor**: amplifica a corrente que recebe em sua base para um valor desejado, sendo o máximo de 100mA.
+- **resistores**: usados em mais de um momento no circuito, têm a função de limitar a corrente, garantindo certa "segurança" aos componentes. no circuito, usamos eles associados ao led, ao zener, ao potenciômetro e ao transistor, com resistências variadas de 100, 120, 2.2k e 5k de ohms.
 - **led**: tem função de indicar o nível da corrente atingida na parte final do circuito, brilhando mais quando a voltagem e a corrente são maiores. de modo geral, não interfere nos valores obtidos no circuito, servindo unicamente como indicação da voltagem e corrente ajustáveis.
 
 # Imagem do circuito no Falstad
