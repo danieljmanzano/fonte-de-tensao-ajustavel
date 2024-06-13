@@ -8,7 +8,7 @@
 |só o template|depois a gente coloca os namoral|valeu eh nois|
 | | **`TOTAL:`** | **`(preço total)`** |
 
-# Componentes
+# Sobre os componentes
 - **transformador**: tem o papel de diminuir a voltagem que o circuito recebe a partir da fonte corrente alternada (tomada). a partir da voltagem de 127V recebida, o transformador consegue diminuí=la para a faixa de tensão desejada (3V a 12V).
 - **ponte de diodo**: uma junção de 4 diodos que têm a capacidade de transformar a tensão alternada (vinda da tomada) em contínua.
 - **capacitor**: armazena carga no circuito nos ciclos da corrente alternada, liberando corrente quando a tensão da fonte é menor do que a tensão interna. ele descarrega sua carga armazenada quando há a inversão do ciclo no circuito. com base em cálculos de um ripple de 10%, chegamos próximos do valor comercial de 470uF de capacitância, usando um capacitor com esse valor no projeto.
