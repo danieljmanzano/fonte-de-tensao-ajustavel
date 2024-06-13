@@ -4,7 +4,7 @@
 | componente | quantidade | custo unitário |
 | ---------- | ---------- | -------------- |
 |só o template|depois a gente coloca os namoral|valeu eh nois|
-| | :--: | |
+| | :---: | |
 | | **total:** | **(preço total)** |
 # Componentes
 - **transformador**: tem o papel de diminuir a voltagem que o circuito recebe a partir da fonte corrente alternada (tomada). a partir da voltagem de 127V recebida, o transformador consegue diminuí=la para a faixa de tensão desejada (3V a 12V).
