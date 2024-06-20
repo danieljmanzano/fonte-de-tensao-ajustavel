@@ -21,7 +21,7 @@
 # Imagem do circuito no Falstad
 ![Captura de tela 2024-06-11 105750](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/e3c710aa-9977-4a19-93ae-4c3c98ba290d)
    - link para o falstad: https://tinyurl.com/2cbdos5r
-   - *observação sobre o projeto final: apesar de que no falstad e no eagle o resistor abaixo do potenciômetro possui 5k ohms (que, em teoria, seria o melhor valor para "acertar" o restante do ciruito), o valor final escolhido foi de 3k para garantir que atingiríamos a voltagem esperada, uma vez que as plataformas não foram completamente condizentes com a realidade.*
+   - *observação sobre o projeto final: apesar de no falstad e no eagle o resistor abaixo do potenciômetro possuir 5k ohms (que, em teoria, seria o melhor valor para "acertar" o restante do ciruito), o valor final escolhido foi de 3k para garantir que atingiríamos a voltagem esperada, uma vez que as plataformas não foram completamente condizentes com a realidade.*
 
 # PCB no Eagle
 ![Captura de tela 2024-06-12 210140](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/a610be01-ebc5-4f92-b6d7-2eceea460e35)
