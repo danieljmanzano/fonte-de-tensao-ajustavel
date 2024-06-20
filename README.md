@@ -15,12 +15,13 @@
 - **diodo zener**: tem o intuito de regular a corrente máxima, sendo o usado especificamente de voltagem máxima de 13V. quando a ddp passa de 13V, ele mantém o valor máximo de 13 em seus terminais; quando a ddp chega menor do que 13V, ele não conduz e consequentemente não interfere no circuito.
 - **potenciômetro**: é um resistor variável usado como controle da tensão resultante, que permite atingir as ddps de 3V a 12V no circuito.
 - **transistor**: amplifica a corrente que recebe em sua base para um valor desejado, sendo o máximo de 100mA.
-- **resistores**: usados em mais de um momento no circuito, têm a função de limitar a corrente, garantindo certa "segurança" aos componentes. no circuito, usamos eles associados ao led, ao zener, ao potenciômetro e ao transistor, com resistências variadas de 100, 120, 2.2k e 5k de ohms.
+- **resistores**: usados em mais de um momento no circuito, têm a função de limitar a corrente, garantindo certa "segurança" aos componentes. no circuito, usamos eles associados ao led, ao zener, ao potenciômetro e ao transistor, com resistências variadas de 100, 120, 2.2k e 3k de ohms.
 - **led**: tem função de indicar o nível da corrente atingida na parte final do circuito, brilhando mais quando a voltagem e a corrente são maiores. de modo geral, não interfere nos valores obtidos no circuito, servindo unicamente como indicação da voltagem e corrente ajustáveis.
 
 # Imagem do circuito no Falstad
 ![Captura de tela 2024-06-11 105750](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/e3c710aa-9977-4a19-93ae-4c3c98ba290d)
    - link para o falstad: https://tinyurl.com/2cbdos5r
+   - *observação sobre o projeto final: apesar de os valores no falstad e no eagle apontarem um resistor de 5k (que, em teoria, seria a melhor opção para "acertar os valores" no ciruito), mudamos o valor para um resistor de 3k para garantir que atingiríamos a voltagem esperada, uma vez que as plataformas não foram completamente condizentes com a realidade.*
 
 # PCB no Eagle
 ![Captura de tela 2024-06-12 210140](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/a610be01-ebc5-4f92-b6d7-2eceea460e35)
