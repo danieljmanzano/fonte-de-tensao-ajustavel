@@ -29,5 +29,9 @@
 # Esquemático no Eagle
 ![Captura de tela 2024-06-12 204952](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/86f89c07-bab1-40e5-bc8c-1dc4eaa14497)
 
+# Vídeo do funcionamento e fotos da fonte
+https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/7742d7ce-853e-4775-993b-c37a913293de
+
+
 
 
