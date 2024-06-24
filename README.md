@@ -32,6 +32,9 @@
 # Vídeo do funcionamento e fotos da fonte
 https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/7742d7ce-853e-4775-993b-c37a913293de
 
-
-
+# Integrantes
+- Daniel Jorge Manzano - 154468661
+- Matheus Muzza Pires Ferreira - 15479468
+- Rodrigo Silva de Almeida - 15645380
+- Vinicius Morotti - 15491876
 
