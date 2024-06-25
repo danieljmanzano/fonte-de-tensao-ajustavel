@@ -2,6 +2,9 @@
 
 *trabalho da disciplina Eletronica para Computação - SSC0180*
 
+# Sobre o projeto
+Nesse trabalho, tivemos a tarefa de criar uma fonte que, recebendo tensão de uma tomada com corrente alternada, tenha capacidade de ajustar a ddp para uma faixa de 3V a 12V e tornar a corrente contínua, que possa atingir o valor de 100mA. Assim, usamos simuladores como o Falstad e o Eagle para elaborar a ideia e, posteriormente, construímos a fonte, cujos detalhes podem ser vistos no decorrer dessa página.
+
 # Tabela dos componentes
 | componente | quantidade | custo unitário |
 | :----: | :----: | :----: |
