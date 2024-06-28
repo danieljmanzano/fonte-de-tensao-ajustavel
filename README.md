@@ -18,7 +18,7 @@ Nesse trabalho, tivemos a tarefa de criar uma fonte que, recebendo tensão de um
 |resistor 5k|1|R$0,07|
 |transistor|1|R$0,80|
 |protoboard|1|R$21,70|
-| | **`TOTAL:`** | **`(preço total)`** |
+| | **`TOTAL:`** | **`R$37,31`** |
 
 # Sobre os componentes
 - **transformador**: tem o papel de diminuir a voltagem que o circuito recebe da fonte corrente alternada (tomada). a partir da voltagem de 127V recebida, o transformador consegue diminuí-la para a faixa de tensão desejada (3V a 12V).
