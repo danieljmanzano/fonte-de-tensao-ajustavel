@@ -8,7 +8,11 @@ Nesse trabalho, tivemos a tarefa de criar uma fonte que, recebendo tensão de um
 # Tabela dos componentes
 | componente | quantidade | custo unitário |
 | :----: | :----: | :----: |
-|só o template|depois a gente coloca os namoral|valeu eh nois|
+|diodo zener|1|R$0,50|
+|capacitor 470uF|1|R$4,40|
+|diodo|4|R$0,20|
+|potenciometro|1|R$7,00|
+|resistor 100o|1|R$0,07|
 | | **`TOTAL:`** | **`(preço total)`** |
 
 # Sobre os componentes
