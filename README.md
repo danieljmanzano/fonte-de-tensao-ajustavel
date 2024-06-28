@@ -13,6 +13,7 @@ Nesse trabalho, tivemos a tarefa de criar uma fonte que, recebendo tensão de um
 |diodo|4|R$0,20|
 |potenciometro|1|R$7,00|
 |resistor 100o|1|R$0,07|
+|resistor 2k2|1|R$0,07|
 | | **`TOTAL:`** | **`(preço total)`** |
 
 # Sobre os componentes
