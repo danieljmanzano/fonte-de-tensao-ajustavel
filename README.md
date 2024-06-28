@@ -12,9 +12,12 @@ Nesse trabalho, tivemos a tarefa de criar uma fonte que, recebendo tensão de um
 |capacitor 470uF|1|R$4,40|
 |diodo|4|R$0,20|
 |potenciometro|1|R$7,00|
-|resistor 100|1|R$0,07|
+|resistor 100 (5W)|1|R$1,90|
 |resistor 2k2|1|R$0,07|
-|resistor 5k|1|R$0,50|
+|resistor 3k|1|R$0,07|
+|resistor 5k|1|R$0,07|
+|transistor|1|R$0,80|
+|protoboard|1|R$21,70|
 | | **`TOTAL:`** | **`(preço total)`** |
 
 # Sobre os componentes
