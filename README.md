@@ -48,6 +48,14 @@ https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/774
 ![Imagem do WhatsApp de 2024-06-27 à(s) 20 25 01_90fc1dde](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/ab38b9e3-b5f2-4b77-a094-3af1bb4c167e)
 ![Imagem do WhatsApp de 2024-06-27 à(s) 20 25 00_5c0ad89b](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/assets/162331747/931ddbbe-1e25-41eb-b518-417e3e881047)
 
+# Contas para saber certos valores máximos e mínimos de alguns componentes
+
+![Calculo do capacitor](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/blob/main/Screenshot_20240629_023409_Samsung%20Notes.jpg)
+![Calculo do resistor logo a cima do diodo zener](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/blob/main/Screenshot_20240629_020520_Samsung%20Notes.jpg)
+![Calculo do resistor a cima do transistor](https://github.com/danieljmanzano/fonte-de-tensao-ajustavel/blob/main/Screenshot_20240629_020854_Samsung%20Notes.jpg)
+
+
+
 
 
 
